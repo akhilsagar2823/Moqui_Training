@@ -1,1 +1,1 @@
-# Moqui_Training
+# Moqui_SQL_Assignment
